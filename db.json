@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "firstName": "Mani",
+      "lastName": "Mughal",
+      "email": "mani@gmail.com",
+      "address": "Fareed Town",
+      "salary": "99999999",
+      "id": 3
+    },
+    {
+      "firstName": "new ",
+      "lastName": "data",
+      "email": "data@gmail.com",
+      "address": "Fareed Town",
+      "salary": "3333333333",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
